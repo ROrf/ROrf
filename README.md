@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ROrf
 - 👀 I’m interested in Game Development (specifically within VR and Unity), Mathematical Back-End Coding, Website and App Development
-- 🌱 I’m currently learning important coding concepts in pursuit of my Computer Science degree in December 2022. This semester, I am enrolled in Computer Networking, Software Security, Principles of Programming Languages, and my final Capstones.
+- 🌱 I’m currently learning important coding concepts in pursuit of my Computer Science degree in December 2022. This semester, I am enrolled in Computer Networking, Software Security, Principles of Programming Languages, and my final Capstone.
 - 💞️ I’m looking to collaborate on nothing for now. However, I may be looking to work on projects in the future.
 - 📫 How to reach me: email - sportsrhino6@gmail.com
 
